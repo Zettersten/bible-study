@@ -37,15 +37,28 @@ Each study is saved in `studies/YYYY-MM-DD-topic-name/` and includes:
 
 | Date | Passage/Topic | Status | Summary |
 |------|---------------|--------|---------|
-| | | | *No studies yet - start your first study!* |
+| 2026-04-21 | [Life as a Husband](studies/2026-04-21-life-as-a-husband/) | ✓ Complete | Honor as a daily posture in marriage - 10 practical ways to honor your wife |
+
+## Study Formats
+
+Two templates are supported — the AI picks the right one based on your input:
+
+- **Exegetical Study** (`templates/study-template.md`) — single passage, verse-by-verse
+  deep dive with literary/historical/canonical context. Use for things like
+  "Study Ephesians 1:3-14" or "Analyze Romans 8:28-39".
+- **Topical / Teaching Outline** (`templates/topical-study-template.md`) — multiple
+  passages clustered around a theme, with a central discussion question and
+  numbered practical points. Use for men's-group or small-group outlines like
+  "Life as a Husband" or "A Father's Words".
 
 ## Features
 
-- **Comprehensive Analysis**: Deep exegetical study with historical context and original languages
+- **Two Study Formats**: Exegetical deep-dives and topical teaching outlines
+- **Comprehensive Analysis**: Historical context, original languages when illuminating
 - **Cross-References**: Related passages that illuminate meaning
-- **Theological Insights**: Key doctrines and principles
-- **Practical Application**: Personal reflection questions and life applications
-- **Consistent Format**: All studies follow the same template structure
+- **Theological Insights**: Key doctrines, Reformed framework, gospel-centered
+- **Practical Application**: Heart-probing reflection questions and concrete practices
+- **Teaching-Outline Voice**: Preserves pastoral tone, numbered points, and pithy takeaways
 - **Primary Translation**: ESV (English Standard Version)
 
 ## Project Structure
@@ -56,7 +69,8 @@ bible-study/
 ├── CLAUDE.md              # AI instructions for consistent studies
 ├── .gitignore             # Git configuration
 ├── templates/
-│   └── study-template.md  # Template for all studies
+│   ├── study-template.md          # Exegetical (single passage)
+│   └── topical-study-template.md  # Topical / teaching outline
 └── studies/
     └── YYYY-MM-DD-topic/  # Individual study folders
         ├── questions.md   # Original input
