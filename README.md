@@ -55,11 +55,21 @@ Two templates are supported — the AI picks the right one based on your input:
 
 - **Two Study Formats**: Exegetical deep-dives and topical teaching outlines
 - **Comprehensive Analysis**: Historical context, original languages when illuminating
+- **Rigorous Answer Format**: Every question answered with 2-3 verses written in full, 2-3 Greek/Hebrew word studies, and 1 specific practical application
 - **Cross-References**: Related passages that illuminate meaning
 - **Theological Insights**: Key doctrines, Reformed framework, gospel-centered
-- **Practical Application**: Heart-probing reflection questions and concrete practices
+- **Practical Application**: Heart-probing reflection questions and concrete (not generic) practices
 - **Teaching-Outline Voice**: Preserves pastoral tone, numbered points, and pithy takeaways
 - **Primary Translation**: ESV (English Standard Version)
+
+## Answer Format
+
+Every study question follows this structure:
+1. **Question repeated** - Clear restatement before answering
+2. **Comprehensive answer** - Thoughtful response to the question
+3. **Biblical support** - 2-3 verses written out in full (ESV)
+4. **Word studies** - 2-3 Greek or Hebrew word studies illuminating the verses
+5. **Practical application** - 1 specific, concrete action (not generic advice)
 
 ## Project Structure
 

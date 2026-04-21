@@ -74,6 +74,17 @@ When the user provides bible study questions or topics, follow this exact workfl
   points, keep 10 numbered points. Enrich each with scripture grounding and
   a pithy one-line takeaway; do not flatten or reorder the teaching.
 
+**CRITICAL ANSWER FORMAT RULES:**
+When answering study questions, follow this exact format for each question:
+
+1. **Repeat the question** - State the question clearly before answering
+2. **Write the answer** - Provide a thoughtful, comprehensive answer
+3. **Provide supporting elements** for each answer:
+   - **2-3 correlating Bible verses fully written out** (ESV, including reference)
+   - **2-3 Greek or Hebrew word studies** that support the verses and illuminate meaning
+   - **1 practical personal application** (specific and concrete, not generic)
+4. **Write out all verses fully** - If any verse is referenced anywhere in the guide or study, write it out in full (ESV), not just the reference
+
 ### 5. Update README.md
 - Add new entry to the Study Index table
 - Include: Date, Passage/Topic (linked to folder), Status, Summary
@@ -138,10 +149,60 @@ Always move from exegesis to application:
 
 ## Output Format Standards
 
+### Question-Answer Format (REQUIRED)
+
+Every study question must follow this exact structure:
+
+**Question:** [Repeat the exact question from the guide]
+
+**Answer:** [Comprehensive answer addressing the question]
+
+**Biblical Support:**
+
+1. **[Reference 1]** (ESV)
+   > [Full verse quotation]
+   
+   **Word Study:** [Greek/Hebrew word] (*transliteration*) - [Meaning and significance]
+
+2. **[Reference 2]** (ESV)
+   > [Full verse quotation]
+   
+   **Word Study:** [Greek/Hebrew word] (*transliteration*) - [Meaning and significance]
+
+3. **[Reference 3]** (ESV) *(if applicable)*
+   > [Full verse quotation]
+   
+   **Word Study:** [Greek/Hebrew word] (*transliteration*) - [Meaning and significance]
+
+**Practical Application:** [One specific, concrete action or practice - not generic platitudes like "pray more" but specific like "This week, before making any family decision over $500, ask your wife's input first and write down her perspective before responding"]
+
+---
+
+**Example:**
+
+**Question:** What are some of the small things that we can do that shows honor to our wives?
+
+**Answer:** Honoring our wives involves daily, concrete actions that communicate value, respect, and covenant love. It's not about grand gestures but consistent, small demonstrations of care.
+
+**Biblical Support:**
+
+1. **1 Peter 3:7** (ESV)
+   > Likewise, husbands, live with your wives in an understanding way, showing honor to the woman as the weaker vessel, since they are heirs with you of the grace of life, so that your prayers may not be hindered.
+   
+   **Word Study:** *Timē* (τιμή) - "honor, value, respect" - the same word used for the honor due to God and governing authorities. This is not casual respect but dignified esteem.
+
+2. **Ephesians 5:28-29** (ESV)
+   > In the same way husbands should love their wives as their own bodies. He who loves his wife loves himself. For no one ever hated his own flesh, but nourishes and cherishes it, just as Christ does the church.
+   
+   **Word Study:** *Thalpō* (θάλπω) - "to cherish, to comfort" - a tender word used of a mother bird warming her young. It implies gentle, nurturing care.
+
+**Practical Application:** This week, identify one recurring household task your wife handles (dishes, bedtime routine, meal planning) and take full ownership of it for seven days without being asked - not as "helping," but as your responsibility.
+
 ### Citation Format
 - Book Chapter:Verse (ESV)
 - Example: "Ephesians 1:3-4 (ESV)"
 - For cross-references: "See also Romans 8:29-30; 1 Peter 1:2"
+- **ALWAYS write verses out in full** - never give just the reference
 
 ### Required Sections (follow study-template.md)
 1. Title with passage and date
@@ -187,6 +248,11 @@ Before completing a study, verify:
 - [ ] `questions.md` generated with user's original input
 - [ ] `study.md` generated following template structure
 - [ ] All required sections included in study.md
+- [ ] **Each question repeated before answering**
+- [ ] **Each answer supported by 2-3 verses written out in full (ESV)**
+- [ ] **Each answer includes 2-3 Greek/Hebrew word studies**
+- [ ] **Each answer includes 1 specific, practical personal application**
+- [ ] **All verse references anywhere in the guide written out in full**
 - [ ] Cross-references provided with proper citations
 - [ ] Theological insights grounded in text
 - [ ] Practical applications included
