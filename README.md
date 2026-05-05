@@ -79,6 +79,11 @@ bible-study/
 ├── README.md              # This file - project hub and study index
 ├── CLAUDE.md              # AI instructions for consistent studies
 ├── .gitignore             # Git configuration
+├── .skills/
+│   └── bible-study/       # Canonical workflow skill (agentskills.io v1)
+│       ├── SKILL.md
+│       ├── scripts/parse_docx.py
+│       └── references/    # ANSWER_FORMAT, VOICE, WORD_STUDIES, TRANSLATIONS
 ├── templates/
 │   ├── study-template.md          # Exegetical (single passage)
 │   └── topical-study-template.md  # Topical / teaching outline
