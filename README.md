@@ -39,6 +39,7 @@ Each study is saved in `studies/YYYY-MM-DD-topic-name/` and includes:
 |------|---------------|--------|---------|
 | 2026-04-21 | [Life as a Husband](studies/2026-04-21-life-as-a-husband/) | ✓ Complete | Honor as a daily posture in marriage - 10 practical ways to honor your wife |
 | 2026-05-05 | [Colossians 2 — Christ Is Enough](studies/2026-05-05-colossians-2-christ-sufficient/) | ✓ Complete | Christ is the entire fullness of God — refuse Christ-plus counterfeits and walk rooted, grateful, free |
+| 2026-05-19 | [Personal Reflection](studies/2026-05-19-personal-reflection/) | ✓ Complete | Six reflection questions on Christian growth, marriage, family relationships, goals, and gratitude |
 
 ## Study Formats
 
