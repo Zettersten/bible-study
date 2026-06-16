@@ -41,6 +41,7 @@ Each study is saved in `studies/YYYY-MM-DD-topic-name/` and includes:
 | 2026-05-05 | [Colossians 2 — Christ Is Enough](studies/2026-05-05-colossians-2-christ-sufficient/) | ✓ Complete | Christ is the entire fullness of God — refuse Christ-plus counterfeits and walk rooted, grateful, free |
 | 2026-05-19 | [Personal Reflection](studies/2026-05-19-personal-reflection/) | ✓ Complete | Six reflection questions on Christian growth, marriage, family relationships, goals, and gratitude |
 | 2026-06-02 | [Colossians 3](studies/2026-06-02-colossians-3/) | ✓ Complete | Paul's blueprint for Christian living — seek things above, mortify sin, clothe yourself in Christ, live faithfully in daily callings |
+| 2026-06-16 | [Jesus and Me: Tempted in the Wilderness](studies/2026-06-16-temptation-in-the-wilderness/) | ✓ Complete | Jesus' three wilderness temptations expose our own: independence from God, presumption upon God, shortcuts around God |
 
 ## Study Formats
 
