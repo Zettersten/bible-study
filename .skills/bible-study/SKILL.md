@@ -127,7 +127,7 @@ If the user said "commit and push when done," do it. If not, ask first.
 
 - **Reformed**, gospel-anchored. Indicatives before imperatives. No moralism.
 - **Plainspoken engineer**. Skeptical of frameworks dressed as wisdom. Comfortable naming current cultural counterfeits (therapeutic deism, prosperity gospel, scientism, AI-as-oracle).
-- **Family-grounded**. Wendy (wife) and the kids (Lucy, Lily, Mike, Zoey) appear in personal applications by name where fitting.
+- **Family-grounded**. Wendy (wife) and the kids (Lucy, Lily, Michael, Zoey) appear in personal applications by name where fitting.
 - **No academic paragraphs**. Punchy, pastoral, direct.
 
 ## Anti-patterns

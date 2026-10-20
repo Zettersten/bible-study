@@ -30,13 +30,12 @@ Brief bios for people who appear in the bible studies but aren't in Scripture: c
   - Age 39.
   - Works as a software engineer at HawkEye 360.
   - Reformed in theological framework.
-  - Married to Wendy Zettersten. Four children: Lucy, Lily, Mike, and Zoey.
+  - Married to Wendy Zettersten. Four children: Lucy (8), Lily (6), Michael (4), and Zoey (2).
   - Attends Reston Bible Church.
 - **Notes:**
   - Personal applications and examples are drafts, not claims about real events. Each study should carry the standard note that examples should be replaced with truthful experiences before sharing.
-  - Name Wendy and the kids (Lucy, Lily, Mike, Zoey) in applications where it fits.
-  - The May 2026 personal reflection study uses "Michael" for the third child. Confirm whether Erik wants "Mike" or "Michael" in future writing.
-  - Gary’s class teacher is at Cornerstone Chapel in Leesburg. The repo doesn't record where Erik takes this class, so don't assume.
+  - Name Wendy and the kids (Lucy, Lily, Michael, Zoey) in applications where it fits.
+  - Gary pastors Cornerstone Chapel in Leesburg. Erik attends Reston Bible Church. The repo doesn't record where Erik takes Gary’s class, so don't assume.
 
 ### Wendy Zettersten
 
@@ -47,23 +46,23 @@ Brief bios for people who appear in the bible studies but aren't in Scripture: c
 
 ### Lucy Zettersten
 
-- **Role:** Erik and Wendy’s child.
-- **Notes:** First name only. The May 2026 personal reflection study records her age at the time; confirm current details before using them.
+- **Role:** Erik and Wendy’s child. Age 8.
+- **Notes:** First name only.
 
 ### Lily Zettersten
 
-- **Role:** Erik and Wendy’s child.
-- **Notes:** First name only. Confirm current details before using them.
+- **Role:** Erik and Wendy’s child. Age 6.
+- **Notes:** First name only.
 
-### Mike Zettersten
+### Michael Zettersten (“Mike”)
 
-- **Role:** Erik and Wendy’s child.
-- **Notes:** Erik says "Mike." The May 2026 personal reflection study uses "Michael." Confirm which name to use.
+- **Role:** Erik and Wendy’s child. Age 4.
+- **Notes:** Full name is Michael. "Mike" is his nickname. Use "Michael" in writing.
 
 ### Zoey Zettersten
 
-- **Role:** Erik and Wendy’s child.
-- **Notes:** First name only. Confirm current details before using them.
+- **Role:** Erik and Wendy’s child. Age 2.
+- **Notes:** First name only.
 
 ### Gary Hamrick (“Gary”)
 
