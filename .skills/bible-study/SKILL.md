@@ -90,7 +90,7 @@ For each question, write the **four-part answer block** (see `references/ANSWER_
 1. **Answer** — Erik voice, 2–4 paragraphs. See `references/VOICE.md`.
 2. **Biblical Support** — 2–4 verses, **printed in full**, with reference and translation tag.
 3. **Word Studies** — 1–3 entries. Greek/Hebrew root, original script, transliteration, gloss, theological payload. See `references/WORD_STUDIES.md`.
-4. **Personal Application** — One concrete, specific action this week. Name Erin and the kids by name where it fits. No platitudes.
+4. **Personal Application** — One concrete, specific action this week. Name Wendy and the kids by name where it fits. No platitudes.
 
 Add the standard envelope sections from `templates/topical-study-template.md`: Intro, Core Passages, Anchor Text, Context & Theological Grounding (compact), Cross-References, Simple Summary, Personal Reflection Questions, Notes.
 
@@ -127,7 +127,7 @@ If the user said "commit and push when done," do it. If not, ask first.
 
 - **Reformed**, gospel-anchored. Indicatives before imperatives. No moralism.
 - **Plainspoken engineer**. Skeptical of frameworks dressed as wisdom. Comfortable naming current cultural counterfeits (therapeutic deism, prosperity gospel, scientism, AI-as-oracle).
-- **Family-grounded**. Erin (wife) and the kids appear in personal applications by name where fitting.
+- **Family-grounded**. Wendy (wife) and the kids (Lucy, Lily, Mike, Zoey) appear in personal applications by name where fitting.
 - **No academic paragraphs**. Punchy, pastoral, direct.
 
 ## Anti-patterns
@@ -154,7 +154,7 @@ Outlines often name people who aren't in Scripture: the class teacher, group lea
 - `references/VOICE.md` — Erik-voice rules with do/don't pairs.
 - `references/WORD_STUDIES.md` — how to choose words and format the entry.
 - `references/TRANSLATIONS.md` — CSB and ESV retrieval, with fallbacks.
-- `references/PEOPLE.md` — brief bios of non-biblical people in the studies (Gary Hamrick, Erik, Erin). Add entries as Erik provides them.
+- `references/PEOPLE.md` — brief bios of non-biblical people in the studies (Gary Hamrick, Erik, Wendy, and the kids). Add entries as Erik provides them.
 
 ## Scripts
 

@@ -27,7 +27,7 @@ Each movement depends on the one before it. You can't "put on" virtue if you hav
 
 **Answer.** Paul anchors everything in verse 1: "So if you have been raised with Christ, seek the things above." This is not escapism—it's reorientation. The "things above" are the *realities* of the gospel: Christ is risen, seated at God's right hand, reigning now, and my life is hidden with him. When I set my mind there, my real life is no longer the scramble for approval at work, the quest for comfort at home, or the drift toward entertainment in my downtime. My real life is bound up with Christ's. That changes the questions I ask and the values I carry into every room.
 
-In the family, this looks like leading Erin and the kids toward worship and scripture, not just managing logistics. It means my patience with Lucy's math homework isn't powered by "I should be a good dad" but by "I've been raised with Christ; his patience fuels mine." At work, I'm not building software to secure my reputation or pad my comp—I'm stewarding the skills God gave me, working for an audience of One. In social settings, I'm not performing to be liked or hiding to be safe—I'm free to speak truth, love well, and let the chips fall, because my real life isn't up for a vote.
+In the family, this looks like leading Wendy and the kids toward worship and scripture, not just managing logistics. It means my patience with Lucy's math homework isn't powered by "I should be a good dad" but by "I've been raised with Christ; his patience fuels mine." At work, I'm not building software to secure my reputation or pad my comp—I'm stewarding the skills God gave me, working for an audience of One. In social settings, I'm not performing to be liked or hiding to be safe—I'm free to speak truth, love well, and let the chips fall, because my real life isn't up for a vote.
 
 The key is Paul's phrase "your life is hidden with Christ in God" (v. 3). My true self—my identity, my security, my future—is locked away in the most secure vault in the universe. No boss, no spouse, no friend, no algorithm can touch it. That's not theory. That's the operating system upgrade Paul is calling for.
 
@@ -81,7 +81,7 @@ Verses 6–7 are the sobering reality check: "Because of these, God's wrath is c
 
 - **Greek: *orgē* (ὀργή)** — "wrath, anger." Distinguished from *thymos* (explosive rage). *Orgē* is the settled, simmering anger that nurses a grudge. It's the bitterness I carry into tomorrow because I won't let today go. Paul says: take it off. It doesn't fit who you are now.
 
-**Personal Application:** I'll do an honest audit this week. Open my phone's browser history, my YouTube recommendations, the last five Slack conversations where I got heated. Ask: which of Paul's two lists shows up most—disordered desire or relational toxicity? Confess the specific pattern to Erin out loud, name it as the old-self garment it is, and ask her to hold me accountable when she sees it resurfacing.
+**Personal Application:** I'll do an honest audit this week. Open my phone's browser history, my YouTube recommendations, the last five Slack conversations where I got heated. Ask: which of Paul's two lists shows up most—disordered desire or relational toxicity? Confess the specific pattern to Wendy out loud, name it as the old-self garment it is, and ask her to hold me accountable when she sees it resurfacing.
 
 ---
 
@@ -147,7 +147,7 @@ And v. 17 is the capstone: "And whatever you do, in word or in deed, do everythi
 
 - **Greek: *agapē* (ἀγάπη)** — "love, covenant love." Paul says "above all, put on love, which is the perfect bond of unity" (v. 14). *Agapē* is not affection or sentiment—it's the decision to seek someone else's good regardless of cost. It's Christ-love, the love that chose the cross. This is the garment that holds everything else together.
 
-**Personal Application:** This week, I'll pick one virtue from v. 12 that feels least natural to me—likely patience—and ask Erin and the kids to call me out when they see the opposite. Then, when they do, I'll stop, thank them, pray Colossians 3:12 out loud in front of them, and try again. Let the family be the gym where I build the muscle.
+**Personal Application:** This week, I'll pick one virtue from v. 12 that feels least natural to me—likely patience—and ask Wendy and the kids to call me out when they see the opposite. Then, when they do, I'll stop, thank them, pray Colossians 3:12 out loud in front of them, and try again. Let the family be the gym where I build the muscle.
 
 ---
 
@@ -159,7 +159,7 @@ But here's the deeper question: why would a wife *want* to submit to her husband
 
 Paul's instruction to husbands in v. 19 is surgical: "love your wives and don't be bitter toward them." The Greek word for "bitter" (*pikrainō*) means to embitter, to make harsh, to provoke resentment. Most failed leadership in marriage isn't dramatic—it's death by a thousand cuts. Sarcasm. Dismissiveness. Neglect. Unilateral decision-making. Emotional distance. That's what embitters a wife. And when she's embittered, she's not following you to the grocery store, much less into spiritual leadership.
 
-The model is always Christ and the church. He leads by laying down his life. He washes feet before he gives commands. If I want Erin to trust my leadership, I earn it the same way: by serving her well, listening to her counsel, protecting her dignity, and never using my role as a club.
+The model is always Christ and the church. He leads by laying down his life. He washes feet before he gives commands. If I want Wendy to trust my leadership, I earn it the same way: by serving her well, listening to her counsel, protecting her dignity, and never using my role as a club.
 
 **Biblical Support:**
 
@@ -180,7 +180,7 @@ The model is always Christ and the church. He leads by laying down his life. He 
 
 - **Greek: *agapaō* (ἀγαπάω)** — "to love with covenant love." This is the verb form of *agapē*. Paul commands husbands to love their wives the way Christ loved the church—total, sacrificial, death-defying love. Not "I love you when you please me" but "I love you because I've decided to, and nothing will change that."
 
-**Personal Application:** This week, I'll ask Erin one question every night before bed: "Did I do or say anything today that felt harsh or dismissive?" And when she answers honestly, I will not defend myself—I'll listen, apologize if needed, and ask how I can do better tomorrow. Repeat for seven days and notice what changes.
+**Personal Application:** This week, I'll ask Wendy one question every night before bed: "Did I do or say anything today that felt harsh or dismissive?" And when she answers honestly, I will not defend myself—I'll listen, apologize if needed, and ask how I can do better tomorrow. Repeat for seven days and notice what changes.
 
 ---
 
@@ -269,7 +269,7 @@ And the gospel fuels every command. Why forgive? "Just as the Lord has forgiven 
 
 3. Am I trying to *become* a new person, or am I learning to *live consistently* with the new person I already am in Christ? Where does that distinction change my fight against sin?
 
-4. In my marriage, am I leading with sacrificial love, or am I subtly demanding submission without earning trust? What would Erin say if I asked her honestly?
+4. In my marriage, am I leading with sacrificial love, or am I subtly demanding submission without earning trust? What would Wendy say if I asked her honestly?
 
 5. At work, do I serve wholeheartedly "as for the Lord," or am I still chasing recognition, fearing man's verdict, and cutting corners when no one's watching?
 

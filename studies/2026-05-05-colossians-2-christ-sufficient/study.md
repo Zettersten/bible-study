@@ -134,7 +134,7 @@ In short: **the same Christ I received by faith is the one I walk in by faith.**
 - **Greek: *peripateō* (περιπατέω)** — "to walk, to conduct one's life." Hebrew equivalent *halak* (הָלַךְ). The word picture is *cumulative steps over time*. The Christian life is a long walk in the same direction, not a series of mountaintop sprints. "Continue to walk in him" assumes I already started — Paul's exhortation is don't stop, don't sidestep.
 - **Greek: *eucharistia* (εὐχαριστία)** — "thanksgiving, gratitude" (literally "good-grace-giving"). It's the word behind "Eucharist." Paul keeps coming back to it (Col 1:12; 2:7; 3:15, 17; 4:2). Gratitude is not the cherry on top of the Christian life — it's the diagnostic vital sign.
 
-**Personal Application.** Erin and the kids see my real walk, not the curated version. This week I'll do two specific things: (1) read a Psalm out loud at the breakfast table before we leave the house — letting the kids hear scripture come from my mouth, not just an app — and (2) end every day by naming three specific things I'm thankful for from that day, *out loud*, before I close my eyes. That's the *eucharistia* engine running.
+**Personal Application.** Wendy and the kids see my real walk, not the curated version. This week I'll do two specific things: (1) read a Psalm out loud at the breakfast table before we leave the house — letting the kids hear scripture come from my mouth, not just an app — and (2) end every day by naming three specific things I'm thankful for from that day, *out loud*, before I close my eyes. That's the *eucharistia* engine running.
 
 ---
 
@@ -206,7 +206,7 @@ And v. 14 is the punctuation: the *cheirographon* — the handwritten certificat
 - **Hebrew: *mûl* (מוּל)** — "to circumcise, cut off." The Old Testament root behind heart-circumcision passages (Deut 10:16; 30:6; Jer 4:4). Throughout the OT, physical circumcision was always a *sign* pointing to this deeper reality. Paul says in Christ the sign has met its substance.
 - **Greek: *cheirographon* (χειρόγραφον)** — "handwritten certificate of debt, IOU." In the Greco-Roman world, a *cheirographon* was a personally signed promissory note. The image in v. 14 is staggering: my own signature was on the debt against me — I created it by my sin — and Christ took the document and *nailed* it to the cross. Debt: cancelled, publicly, finally.
 
-**Personal Application.** I have a low-grade habit of relating to God like he's still partly judging me — like there's a residual ledger he keeps and I'm trying to stay ahead on. Paul says there is no ledger. It was nailed to the cross. The next time I notice that performance-anxiety pattern firing — usually after a failure, a sharp word with Erin, an impatient moment with the kids — I'll stop and pray a one-sentence creed out loud: *"He erased the certificate of debt. There is nothing left to pay."* Then I'll repent honestly and move forward as a forgiven son, not a defendant.
+**Personal Application.** I have a low-grade habit of relating to God like he's still partly judging me — like there's a residual ledger he keeps and I'm trying to stay ahead on. Paul says there is no ledger. It was nailed to the cross. The next time I notice that performance-anxiety pattern firing — usually after a failure, a sharp word with Wendy, an impatient moment with the kids — I'll stop and pray a one-sentence creed out loud: *"He erased the certificate of debt. There is nothing left to pay."* Then I'll repent honestly and move forward as a forgiven son, not a defendant.
 
 ---
 

@@ -120,7 +120,7 @@ Verse 8 also has a sharp edge. Paul says that rejecting this teaching isn’t re
 
 - **Greek: *skeuos* (σκεῦος)** — “vessel, container.” In 4:4 Paul says each one should know how to control his own *vessel* in holiness and honor. Most interpreters take this as the body, and 1 Corinthians 6:18-20 supports that reading: the body is the temple of the Spirit and belongs to God. The CSB footnote notes an older alternative, “to acquire his own wife,” and some have read it that way. Either way, the payload is the same. Sexual self-control is a matter of holiness and honor, not appetite. My body is not a neutral tool that I may use however I want.
 
-**Personal Application.** This week I’ll sit down with Erin and ask her to tell me honestly where she sees me least careful: late nights, screens, or how I handle temptation when I’m tired. I’ll ask her to pray for me by name. Then I’ll put my phone to charge outside our bedroom every night this week, because the late scroll is where my resolve is weakest. I’m not doing this to earn God’s acceptance. Christ bought me (1 Cor 6:20), and that is exactly why I want my body to show it.
+**Personal Application.** This week I’ll sit down with Wendy and ask her to tell me honestly where she sees me least careful: late nights, screens, or how I handle temptation when I’m tired. I’ll ask her to pray for me by name. Then I’ll put my phone to charge outside our bedroom every night this week, because the late scroll is where my resolve is weakest. I’m not doing this to earn God’s acceptance. Christ bought me (1 Cor 6:20), and that is exactly why I want my body to show it.
 
 ---
 
@@ -153,7 +153,7 @@ I also want to be honest with myself. My default in the church is to love people
 
 - **Greek: *theodidaktos* (θεοδίδακτος)** — “taught by God.” This is the rare word in 4:9. It places the source of love in God’s own teaching rather than in human instruction. Paul does not need to write them a manual because God has already taught them. The payload is humbling: when I struggle to love a believer, the problem is rarely a lack of information. It is a lack of attention to what God has already taught me in his Word.
 
-**Personal Application.** This week I’ll invite one family from our church over for dinner with Erin and the kids. I’ll ask them one question I would normally skip: “What has been the heaviest part of your week?” Before Sunday I’ll also text one brother I know is carrying something hard and offer a specific help: a meal, an afternoon of yard work, or a ride to an appointment. I’ll name the help myself instead of waiting for him to ask.
+**Personal Application.** This week I’ll invite one family from our church over for dinner with Wendy and the kids. I’ll ask them one question I would normally skip: “What has been the heaviest part of your week?” Before Sunday I’ll also text one brother I know is carrying something hard and offer a specific help: a meal, an afternoon of yard work, or a ride to an appointment. I’ll name the help myself instead of waiting for him to ask.
 
 ---
 
@@ -165,7 +165,7 @@ I don’t think Paul is praising laziness or withdrawal. He is correcting someth
 
 Ephesians 4:28 supplies the motive. The thief must stop stealing and instead “do honest work with his own hands, so that he has something to share with anyone in need.” Work is not only a way to pay my bills. It is a way to have something to give. Paul does not tell the Thessalonians to work so they can earn God’s favor. They already have his favor in Christ. They work because grace produces people who are generous, dependable, and free from the pressure to be noticed.
 
-So what does this look like in my life? As an engineer I’m tempted to aspire to the wrong kind of visibility. I want the good demo, the smart architecture decision, the praise from the team lead. Quiet faithfulness doesn’t get that. It looks like finishing the boring ticket, writing the status update that says what’s done and what’s blocked, and not joining the thread where everybody complains about the reorg. At home it looks like doing the repair before Erin has to ask, and not making a show of it. Paul’s standard is not that I become invisible. It is that the church should be known for integrity, not for its drama.
+So what does this look like in my life? As an engineer at HawkEye360 I’m tempted to aspire to the wrong kind of visibility. I want the good demo, the smart architecture decision, the praise from the team lead. Quiet faithfulness doesn’t get that. It looks like finishing the boring ticket, writing the status update that says what’s done and what’s blocked, and not joining the thread where everybody complains about the reorg. At home it looks like doing the repair before Wendy has to ask, and not making a show of it. Paul’s standard is not that I become invisible. It is that the church should be known for integrity, not for its drama.
 
 I want to be careful with the phrase “not dependent on anyone.” Paul does not say believers must never need help. He is talking about the posture of someone who is responsible for his own household. Sickness, disaster, and seasons of need are real, and the church is supposed to help. The concern is the habit of expecting others to carry what I could carry myself, or using dependence as a way to avoid responsibility.
 
@@ -191,7 +191,7 @@ I want to be careful with the phrase “not dependent on anyone.” Paul does no
 
 - **Greek: *euschēmonōs* (εὐσχημόνως)** — “properly, decently, honorably.” In 4:12 Paul says the quiet life makes the church behave *properly* before outsiders. The adverb is about visible respectability, but it is not respectability for its own sake. The Christian’s life should be attractive and credible to people who don’t yet believe. Paul wants the gospel to be commended by how we live, not only by how we talk.
 
-**Personal Application.** This week I’ll finish the one work item I keep postponing, and I’ll send the status update without drama: what’s done, what’s blocked, and what I need. No complaint thread. At home, I’ll do the household repair I’ve been putting off, before Erin has to ask. I won’t announce it. The point of quiet work is that the people who need it can count on it, and the people who don’t see me doing it are still watching.
+**Personal Application.** This week I’ll finish the one work item I keep postponing, and I’ll send the status update without drama: what’s done, what’s blocked, and what I need. No complaint thread. At home, I’ll do the household repair I’ve been putting off, before Wendy has to ask. I won’t announce it. The point of quiet work is that the people who need it can count on it, and the people who don’t see me doing it are still watching.
 
 ---
 
@@ -229,7 +229,7 @@ I also want to be honest that I’m tempted to read this as a spec. As an engine
 
 - **Greek: *apantēsis* (ἀπάντησις)** — “a meeting, a going out to meet.” Paul says we will meet the Lord in the air (4:17). The word appears in the New Testament only three times. Some interpreters point to ancient usage of the word for an official welcome, where a delegation went out to meet a dignitary and escorted him back into the city. That picture is attractive, and I find it encouraging, but I would not build a whole theology on it. The clear payload is that God’s people will go out to meet the Lord, and we will be with him in his presence forever.
 
-**Personal Application.** This week I’ll read 1 Thessalonians 4:13-18 aloud with Erin, and then with the kids at dinner. I’ll ask them one question: “What does Paul want us to do when someone we love dies?” I’ll answer plainly. We grieve, but not like people who have no hope, because Jesus died and rose again. Before I go to bed I’ll write down the one fear about the future I most want to bring to God.
+**Personal Application.** This week I’ll read 1 Thessalonians 4:13-18 aloud with Wendy, and then with the kids at dinner. I’ll ask them one question: “What does Paul want us to do when someone we love dies?” I’ll answer plainly. We grieve, but not like people who have no hope, because Jesus died and rose again. Before I go to bed I’ll write down the one fear about the future I most want to bring to God.
 
 ---
 
@@ -261,7 +261,7 @@ When I actually try to picture my own ordinary Thursday ending in that moment, I
 
 - **Greek: *allassō* (ἀλλάσσω)** — “to change, to alter.” Paul says in 1 Corinthians 15:51 that we will all be changed. The verb speaks of a real alteration, not an end of existence. What is changed is the body. The payload connects to Philippians 3:21, where the body of our humble condition is transformed into Christ’s glorious body. The change is not the abandonment of my body. It is the redemption of it.
 
-**Personal Application.** This week I’ll write one paragraph describing an ordinary workday of mine, and then add the moment of the trumpet at the end. I’ll write honestly what I would be doing in that moment and what I would regret. Then I’ll make one change that matches the picture: I’ll go to the person I’ve been avoiding and make the apology or the call before the day is over. Erin will know if I skip it.
+**Personal Application.** This week I’ll write one paragraph describing an ordinary workday of mine, and then add the moment of the trumpet at the end. I’ll write honestly what I would be doing in that moment and what I would regret. Then I’ll make one change that matches the picture: I’ll go to the person I’ve been avoiding and make the apology or the call before the day is over. Wendy will know if I skip it.
 
 ---
 
@@ -304,7 +304,7 @@ Here is the gospel thread I don’t want to lose. The people in Noah’s and Lot
 
 - **Greek: *apollymi* (ἀπόλλυμι)** — “to destroy, to lose, to perish.” The verb describes the flood and the fire: “destroyed them all” (Luke 17:27, 29). Then, in verse 33, the same verb appears in the statement that whoever tries to secure his life *will lose* it. The payload is a connection between judgment on the world and the self-protective soul. The people who wanted to secure their life by their own effort were lost in the same way that the people in Noah’s day were destroyed. I find this uncomfortable, and I should.
 
-**Personal Application.** This week I’ll name the one thing I keep looking back toward that Christ is calling me to leave. It might be a habit, a comfort, a relationship, or a way of making money feel safe. I’ll take one concrete step away from it: uninstall the app, end the conversation, or set the boundary. I’ll tell Erin what I’m doing, because she is the one who will notice if I drift back to it. Christ does not call me to cling to what is passing away.
+**Personal Application.** This week I’ll name the one thing I keep looking back toward that Christ is calling me to leave. It might be a habit, a comfort, a relationship, or a way of making money feel safe. I’ll take one concrete step away from it: uninstall the app, end the conversation, or set the boundary. I’ll tell Wendy what I’m doing, because she is the one who will notice if I drift back to it. Christ does not call me to cling to what is passing away.
 
 ---
 
@@ -369,7 +369,7 @@ The good news is that my willingness is not the foundation of God’s will. The 
 
 - **Greek: *areskō* (ἀρέσκω)** — “to please, to be pleasing to.” Paul asks them to please God. The verb describes an aim: a life that gives God satisfaction. This is not earning God’s love. It is responding to it. Because God has loved me in Christ, my life can aim at his pleasure, and a sinful life is a failure to aim at the right target.
 
-**Personal Application.** This week I’ll ask Erin one question: “Where do you see me resisting God’s will in our home?” I’ll listen without defending myself, and I’ll write down one thing I will change. Then I’ll pray Paul’s words back to God: “that you walk and please God.” I want to be willing, and I need him to make me willing.
+**Personal Application.** This week I’ll ask Wendy one question: “Where do you see me resisting God’s will in our home?” I’ll listen without defending myself, and I’ll write down one thing I will change. Then I’ll pray Paul’s words back to God: “that you walk and please God.” I want to be willing, and I need him to make me willing.
 
 ---
 

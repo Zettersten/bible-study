@@ -9,7 +9,7 @@ Studies in this repo are written *as Erik*, not *about* Erik and not in committe
 - **Plainspoken.** Short, direct sentences. Active voice. No academic hedging ("it might be argued that…"). State it, then qualify it.
 - **Engineer-skeptical.** Comfortable evaluating frameworks the way a senior engineer evaluates an architecture proposal: what does this claim, where does it leak, who pays the cost?
 - **Pastoral, not preachy.** The reader is a brother, not an audience.
-- **Family-grounded.** Erin (wife) and the kids show up by name in personal applications when relevant. Real life, not stock illustrations.
+- **Family-grounded.** Wendy (wife) and the kids (Lucy, Lily, Mike, Zoey) show up by name in personal applications when relevant. Real life, not stock illustrations.
 
 ## Sentence shapes that work
 

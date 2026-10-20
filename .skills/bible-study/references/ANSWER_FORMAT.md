@@ -51,7 +51,7 @@ Rules:
 One paragraph, ~3–6 sentences. Must be:
 
 - **Concrete.** A specific, observable action — usually this-week-scoped.
-- **Erik-personal.** Erin, the kids, work-as-engineer details land here when they fit.
+- **Erik-personal.** Wendy, the kids, work-as-engineer details land here when they fit.
 - **Gospel-fueled.** Application flows from indicative (what Christ has done), not raw imperative. No moralism.
 
 ❌ "Pray more this week."
@@ -76,7 +76,7 @@ One paragraph, ~3–6 sentences. Must be:
 > - **Greek: *peripateō* (περιπατέω)** — "to walk, to conduct one's life." Hebrew equivalent *halak* (הָלַךְ). The picture is *cumulative steps over time* — the Christian life is a long walk in the same direction, not a series of mountaintop sprints.
 > - **Greek: *eucharistia* (εὐχαριστία)** — "thanksgiving." The word behind "Eucharist." Paul keeps coming back to it (Col 1:12; 2:7; 3:15, 17; 4:2). Gratitude is not the cherry on top — it's the diagnostic vital sign.
 >
-> **Personal Application.** Erin and the kids see my real walk, not the curated version. This week I'll … *(specific, named)*
+> **Personal Application.** Wendy and the kids see my real walk, not the curated version. This week I'll … *(specific, named)*
 
 ## Pre-commit checklist
 
@@ -84,5 +84,5 @@ One paragraph, ~3–6 sentences. Must be:
 - [ ] Every reference anywhere is printed in full.
 - [ ] Translation tag consistent across both files.
 - [ ] Word studies include script + transliteration + payload.
-- [ ] Application names a concrete action and (when fitting) names Erin/kids.
+- [ ] Application names a concrete action and (when fitting) names Wendy/kids.
 - [ ] No moralism — gospel indicatives precede imperatives.

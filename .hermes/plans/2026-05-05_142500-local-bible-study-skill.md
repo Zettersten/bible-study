@@ -31,7 +31,7 @@ Create an in-repo skill that captures the exact workflow used to convert the Col
 These are required behaviors the skill must encode, not nice-to-haves:
 
 - Every verse referenced anywhere in either output file is printed in full CSB (or chosen translation), never bare reference.
-- Each answer block has the four parts in this order: **Answer (Erik voice) → Biblical Support (full-text verses) → Word Studies (Greek/Hebrew, with original script + transliteration) → Personal Application (concrete, names Erin/kids when fitting)**.
+- Each answer block has the four parts in this order: **Answer (Erik voice) → Biblical Support (full-text verses) → Word Studies (Greek/Hebrew, with original script + transliteration) → Personal Application (concrete, names Wendy/kids when fitting)**.
 - Erik voice: Reformed, gospel-anchored, plainspoken, engineer-skeptical-of-frameworks. Not academic-paragraph mode.
 - Topical/teaching outlines preserve the user's structure — same number of points, same numbered ordering, same pithy takeaway lines.
 - README index gets updated in the same commit as the new study.
