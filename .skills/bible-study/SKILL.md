@@ -5,7 +5,7 @@ license: Proprietary — internal to Zettersten/bible-study
 compatibility: Requires Python 3 stdlib for the docx text-dump helper. Optional ESV_API_TOKEN for ESV passages; CSB passages are pulled via web_extract.
 metadata:
   author: erik.zettersten
-  version: "1.1"
+  version: "1.2"
   primary_translation: CSB
   framework: Reformed
 ---
@@ -140,12 +140,21 @@ If the user said "commit and push when done," do it. If not, ask first.
 - ❌ Treating Type B teaching outlines like Type A exegetical studies — voice flattens, structure breaks.
 - ❌ Updating CLAUDE.md or templates when the user only asked for a new study. Scope discipline.
 
+## People mentioned in the studies
+
+Outlines often name people who aren't in Scripture: the class teacher, group leaders, participants, and family. Before writing an Intro, Class Introduction, or personal application that mentions someone, check `references/PEOPLE.md`.
+
+- If the person is listed, use the recorded role and context.
+- If the person isn't listed, ask Erik for a short bio and add an entry in the format given in that file. Don't guess roles or details.
+- Mark any detail that came from an outside source as unverified.
+
 ## Reference files
 
 - `references/ANSWER_FORMAT.md` — canonical four-part answer block, with full example.
 - `references/VOICE.md` — Erik-voice rules with do/don't pairs.
 - `references/WORD_STUDIES.md` — how to choose words and format the entry.
 - `references/TRANSLATIONS.md` — CSB and ESV retrieval, with fallbacks.
+- `references/PEOPLE.md` — brief bios of non-biblical people in the studies (Gary Hamrick, Erik, Erin). Add entries as Erik provides them.
 
 ## Scripts
 
