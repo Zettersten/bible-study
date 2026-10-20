@@ -45,6 +45,7 @@ Each study is saved in `studies/YYYY-MM-DD-topic-name/` and includes:
 | 2026-06-30 | [In This World But Not of This World](studies/2026-06-30-daniel-1-in-world-not-of-world/) | ✓ Complete | Daniel's choices in Babylon teach predecision, respectful resistance, trust in God's outcomes, and faithful excellence in an empire |
 | 2026-07-14 | [Ezekiel 38-39: The Prophecy Against Gog and Magog](studies/2026-07-14-ezekiel-38-39-gog-magog/) | ✓ Complete | God's dramatic intervention against a future coalition invading Israel, displaying His holiness before the nations |
 | 2026-10-06 | [1 Thessalonians 1 & 2 — Faith That Becomes Visible](studies/2026-10-06-1-thessalonians-1-2/) | ✓ Complete | Faithful reputation, turning from idols, hope in Christ’s return, gospel courage, and receiving God’s Word |
+| 2026-10-20 | [1 Thessalonians 4 — Walking to Please God, Waiting for the Lord](studies/2026-10-20-1-thessalonians-4/) | ✓ Complete | Holy living as God’s will, loving believers, quiet faithful work, and the Lord’s coming with the days of Noah and Lot |
 
 ## Study Formats
 
