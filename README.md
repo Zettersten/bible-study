@@ -46,6 +46,7 @@ Each study is saved in `studies/YYYY-MM-DD-topic-name/` and includes:
 | 2026-07-14 | [Ezekiel 38-39: The Prophecy Against Gog and Magog](studies/2026-07-14-ezekiel-38-39-gog-magog/) | ✓ Complete | God's dramatic intervention against a future coalition invading Israel, displaying His holiness before the nations |
 | 2026-10-06 | [1 Thessalonians 1 & 2 — Faith That Becomes Visible](studies/2026-10-06-1-thessalonians-1-2/) | ✓ Complete | Faithful reputation, turning from idols, hope in Christ’s return, gospel courage, and receiving God’s Word |
 | 2026-10-20 | [1 Thessalonians 4 — Walking to Please God, Waiting for the Lord](studies/2026-10-20-1-thessalonians-4/) | ✓ Complete | Holy living as God’s will, loving believers, quiet faithful work, and the Lord’s coming with the days of Noah and Lot |
+| 2026-11-17 | [Body, Soul, and Spirit Sanctification](studies/2026-11-17-body-soul-spirit/) | ✓ Complete | Sanctifying the whole person (body, soul, and spirit) and walking in holiness so we are blameless at the Lord’s coming |
 
 ## Study Formats
 
