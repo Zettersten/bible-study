@@ -11,7 +11,7 @@ This is a study about the parts of me that I usually don’t think about as sepa
 
 The outline puts the question plainly: how do I walk in holiness so that I am ready when Jesus returns? Its answer is that holiness reaches all of me, not only what I do with my body but what I feed my soul and spirit. I’m a software engineer at HawkEye360, married to Wendy, and the father of Lucy, Lily, Michael, and Zoey. Most of my failures in holiness don’t show up as one big moment. They look like small, daily choices about what I look at, what I dwell on, and what I refuse to submit to God.
 
-One note on the anthropology. The outline teaches a three-part view (body, soul, spirit) and describes the spirit as the God-conscious part of the person. The Reformed tradition has mostly treated man as body and soul, with the soul as the immaterial inner life that includes its relation to God. Paul’s language in 1 Thessalonians 5:23 and Hebrews 4:12 invites a careful distinction without turning it into three separate pieces. I’ll follow the outline’s terms, explain where I land, and name the disagreement honestly.
+One question will shape the discussion more than any other: does the outline’s three-part view (body, soul, spirit) match how Scripture uses these words? I treat that as an open question for the group. The texts and sources are set out in the Open Discussion section below.
 
 *First-person answers and applications are drafts for personal reflection, not claims about events in Erik’s life. Replace possible examples with truthful experiences before sharing. The ten original questions and the teaching points appear in their original order.*
 
@@ -103,7 +103,7 @@ The two anchors are **1 Thessalonians 5:23-24** and **Galatians 5:16-17**. The f
 
 **Answer.** Scripture distinguishes the physical from the immaterial. My body is the part of me that is seen, touched, fed, rested, and eventually buried. My soul is the inner life that includes my thoughts, emotions, reasoning, will, and intellect. That is what the outline calls self-consciousness: the “I” that knows it is someone. My spirit, in the outline’s framing, is the same inner life considered in its deepest orientation toward God, the part that can know him and commune with him.
 
-Here I want to be careful, because the outline and the older Reformed tradition handle this differently. Paul’s prayer in 1 Thessalonians 5:23 names “spirit, soul, and body,” and Hebrews 4:12 speaks of the word of God penetrating “as far as the separation of soul and spirit.” Those verses encourage the view that spirit and soul are distinguishable in function. Many Reformed theologians have still treated man as body and soul, with the spirit and the soul as two aspects of one immaterial nature rather than two substances. The Westminster Confession speaks of man as consisting of body and soul, and the spirit language is usually read as the soul considered in relation to God. I think that reading takes both texts seriously. The distinction is real in the way the inner life works, but the Bible does not give me three rooms in a house.
+Whether spirit and soul name two parts or one part seen from two angles is contested. The evidence on both sides is in the Open Discussion section. The class should weigh those texts itself rather than take my answer as settled.
 
 So the practical difference matters more than the anatomical debate. Soul is the self that loves, chooses, and reasons. Spirit names that same self as made to know God and receive life from him. A person can have a rich soul, intelligent, emotional, and skilled, and still be spiritually dead toward God (1 Cor 2:14, which we’ll get to in Q6). When Jesus says to love God with all the heart, soul, and mind (Matt 22:37), he is not listing three unrelated pieces. He is describing the whole inner person directed toward God.
 
@@ -430,6 +430,54 @@ Paul reminds the church that Jesus is coming, and that the day will not surprise
 
 ---
 
+## Open Discussion: Trichotomy or Dichotomy?
+
+The outline teaches three parts. Some Christians hold trichotomy: the person is body, soul, and spirit as three distinct parts. Others hold dichotomy: the person is body and soul, and “spirit” names the soul in its relation to God. This is an open question for the class. Both sides read the same verses, and both accept that a human being is more than a body. The dispute is whether the spirit is a third part or a functional aspect of one immaterial soul.
+
+### The Case for Trichotomy
+
+**1 Thessalonians 5:23** lists the three parts in order: “your whole spirit, soul, and body.” It is the most explicit list in Paul.
+
+**Hebrews 4:12** says the word of God penetrates “as far as the separation of soul and spirit.” The verb implies that the two can be separated and that God’s word can tell them apart.
+
+**1 Corinthians 15:44-46** sets a “natural body” (*psychikon*) against a “spiritual body” (*pneumatikon*). Trichotomists read the soul and spirit contrast as a real distinction in human nature, not just a difference between two states of one soul.
+
+**1 Corinthians 15:44-46** (CSB)
+> **44** sown a natural body, raised a spiritual body. If there is a natural body, there is also a spiritual body.
+> **45** So it is written, The first man Adam became a living being; the last Adam became a life-giving spirit.
+> **46** However, the spiritual is not first, but the natural, then the spiritual.
+
+Trichotomists in modern times include Franz Delitzsch (*Biblical Psychology*), Lewis Sperry Chafer (*Systematic Theology*), and Watchman Nee (*The Spiritual Man*). These are standard names in this debate. Verify their exact claims before citing them in class.
+
+### The Case for Dichotomy
+
+**Matthew 10:28** names two parts that God can destroy: “both soul and body in hell.” Jesus’ own language divides the person into two.
+
+**Luke 1:46-47** uses soul and spirit for the same act. Mary says her soul magnifies the Lord and her spirit rejoices. Hebrew poetic parallelism often says the same thing twice in different words. On this reading, soul and spirit are one inner reality named two ways.
+
+**Matthew 10:28** and **Luke 1:46-47** (CSB)
+> **28** Don’t fear those who kill the body but are not able to kill the soul; rather, fear him who is able to destroy both soul and body in hell.
+> **46** And Mary said: My soul magnifies the Lord,
+> **47** and my spirit rejoices in God my Savior.
+
+**Genesis 2:7** says God formed the man from the dust, breathed the breath of life into him, and “the man became a living being.” The text describes one being that is both material and animated. It does not describe three components assembled.
+
+**Genesis 2:7** (CSB)
+> **7** Then the Lord God formed the man out of the dust from the ground and breathed the breath of life into his nostrils, and the man became a living being.
+
+The Hebrew words support the same reading. *Nephesh* (נֶפֶשׁ) names the living being, the self, life, and sometimes the throat. *Ruach* (רוּחַ) names wind, breath, and spirit, including God’s Spirit. Both words cover overlapping ground, which makes a clean three-part division harder to draw from the Hebrew text.
+
+Confessional datapoints: the Westminster Confession of Faith (chapter 4) describes man as made with “reasonable and immortal souls,” and the Belgic Confession (article 14) describes man as body and soul. John Calvin, in the *Institutes* (1.15.2), treats soul and spirit as often used of the same immaterial essence. These are real sources, but check the exact wording and sections before quoting them in class.
+
+### Questions for the Group
+
+1. In 1 Thessalonians 5:23, is Paul listing three parts or describing the whole person from three angles?
+2. Does Hebrews 4:12 describe a real separation of soul and spirit, or a picture of the word piercing deeply?
+3. If Mary uses soul and spirit for the same act of rejoicing, does that weaken the trichotomy case?
+4. Does the distinction change how we pray or counsel? When someone says “my spirit is troubled” or “my soul is troubled,” do they mean different things?
+5. Does the answer change what we say about the image of God (Q2) or about unbelievers (Q6)?
+6. Would a three-part view or a two-part view better explain the 1 Corinthians 15 contrast between the natural and spiritual body?
+
 ## Context & Theological Grounding
 
 ### Historical Context
@@ -446,7 +494,7 @@ The sanctification prayer in 5:23 comes at the end of the letter, after the prac
 
 ### Trichotomy and Dichotomy
 
-The outline teaches a three-part view. Some Christians call it trichotomy: the person is body, soul, and spirit. Others, including much of the Reformed tradition, hold dichotomy: the person is body and soul, with spirit understood as the soul in its God-ward relation. Both views read 1 Thessalonians 5:23 and Hebrews 4:12, and both affirm that the human person is more than the body. The dispute is mostly about whether the spirit is a separate part or a functional aspect of the immaterial soul. I lean toward the Reformed dichotomy while taking seriously the distinctions Paul and the writer of Hebrews draw. This is a question I want to raise with the class rather than settle by assertion.
+The texts, historical positions, and discussion questions are in the Open Discussion section above.
 
 ### Image, Likeness, and Renewal
 
@@ -494,8 +542,9 @@ Use the answers above to choose one application for the coming week. The list is
 - A truthful personal example to share:
 - An area of repentance or gratitude:
 - One action chosen for this week:
-- Questions for the class: Does the teacher hold the three-part view as the class position? Should the class discuss trichotomy and dichotomy as an open question?
-- The outline’s “in our likeness” question is answered from Genesis 1:26, which I assumed from context. Confirm if the teacher meant a different reference.
+- Trichotomy and dichotomy are presented as an open question for the group. Verify the confession wording and the authors named in the Open Discussion section before teaching.
+- “In our likeness” is answered from Genesis 1:26, as confirmed.
+- This study refers to Gary’s teaching from the outline. Gary is not part of the meeting.
 
 Personal notes can also be kept in an optional `notes.md` beside these documents.
 

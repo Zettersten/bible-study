@@ -66,7 +66,7 @@ Brief bios for people who appear in the bible studies but aren't in Scripture: c
 
 ### Gary Hamrick (“Gary”)
 
-- **Role:** Teacher of the class. His outline and teaching points are the source material for the studies.
+- **Role:** Source of the class outlines and teaching points. He is not in the meeting. The studies refer to his teaching only.
 - **Context:** Appears as “Gary says…” in outlines and in the class introduction. The 1 Thessalonians 4 study names him in the Class Introduction.
 - **Background:** Senior and founding pastor of Cornerstone Chapel, a large Calvary Chapel-affiliated church at 650 Battlefield Parkway SE, Leesburg, Virginia. He started in full-time ministry as a high school youth pastor in 1987, and in 1991 the church’s 18 charter members asked him to become its first pastor. He hosts *Cornerstone Connection*, a radio teaching broadcast on over 600 stations, and his sermons stream on YouTube and the Cornerstone Chapel Teaching Library. He serves on the boards of the Museum of the Bible and the Family Research Council. His book *Walking in the Spirit’s Power* walks through the Book of Acts chapter by chapter.
 - **Notes:** This bio came from an AI-generated overview, not from Erik or a primary source. Confirm the details before relying on them in writing. When writing about Gary, refer to him as the teacher of the class and avoid claims about his views beyond what his outline says.
